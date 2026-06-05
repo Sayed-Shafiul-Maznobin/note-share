@@ -45,3 +45,4 @@ JWT_SECRET="your-random-secret-here"
 | `npm run build` | Production build |
 | `npm run db:push` | Sync database schema |
 | `npm run db:seed` | Seed admin user |
+"# note-share" 
